@@ -1,0 +1,30 @@
+{
+  "name": "twitter-ens-api",
+  "version": "1.0.0",
+  "description": "You input a twitter handle and you get all the ENS names (such as _vitalik.eth_) followed by that person on Twitter inside an array. Simple AF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricobottazzi/twitter-ens-api.git"
+  },
+  "keywords": [
+    "ENS",
+    "API",
+    "Twitter",
+    "Ethereum",
+    "Name",
+    "System"
+  ],
+  "author": "Enrico Bottazzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricobottazzi/twitter-ens-api/issues"
+  },
+  "homepage": "https://github.com/enricobottazzi/twitter-ens-api#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
