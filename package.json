@@ -1,6 +1,6 @@
 {
   "name": "twitter-ens-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "You input a twitter handle and you get all the ENS names (such as _vitalik.eth_) followed by that person on Twitter inside an array. Simple AF.",
   "main": "index.js",
   "scripts": {
