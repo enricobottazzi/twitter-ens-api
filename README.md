@@ -1,10 +1,10 @@
-# twitter-ENS-api
+# twitter-ens-api
 
 You input a twitter handle and you get all the ENS names (such as _vitalik.eth_) followed by that person on Twitter inside an array. Simple AF.
 
 ## Installation
 
-``` npm install twitter-ENS-api ```
+``` npm install twitter-ens-api ```
 
 ## Usage 
 
